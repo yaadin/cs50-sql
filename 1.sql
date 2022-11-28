@@ -1,0 +1,1 @@
+SELECT distinct count(year) from movies where year = 2008 
